@@ -16,14 +16,14 @@ sudo swift install.swift
 ```
 You should be this output message:
 
-![](assets/terminal.png)
+![](Assets/terminal.png)
 
 If all it's ok you now could find your template in Xcode.
 
 ## Usage
 You will be able to see "Cellable-Template" in Xcode.
 you can generate xib file and swift file that implemented "Cellable"
-![](/assets/wizard.png)
+![](/Assets/wizard.png)
 
 ## License
 
