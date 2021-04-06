@@ -11,9 +11,6 @@ import Cellable
 
 class ___VARIABLE_CellName___TableViewCell: UITableViewCell, Cellable {
     
-    static var bundle: Bundle = .main
-    static var Identifier: String = "___VARIABLE_CellName___TableViewCell"
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         

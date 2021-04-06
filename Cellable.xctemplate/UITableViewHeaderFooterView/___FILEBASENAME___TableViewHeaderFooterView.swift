@@ -11,9 +11,6 @@ import Cellable
 
 class ___VARIABLE_CellName___TableViewHeaderFooterView: UITableViewHeaderFooterView, Cellable {
     
-    static var bundle: Bundle = .main
-    static var Identifier: String = "___VARIABLE_CellName___TableViewHeaderFooterView"
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         
